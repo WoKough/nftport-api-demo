@@ -1,9 +1,10 @@
-# nftport-api-demo
+## ReadMe
+
 this is a demo
 mint nft collection on polygon using nftport api
 you can get api_key [here](https://www.nftport.xyz/sign-up)
 
-## use
+### use
 python3 mint-nft.py api_key owner_address pic_folder
 
 when mint over, you can check it on opensea
